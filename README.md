@@ -6,10 +6,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/carlos-eduardo-de-sousa-fernandes-80b00426b/)
 
-
+## Tecnologias que uso 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodevsousa21&show_icons=true&theme=tokyonight)
 
-## Tecnologias que uso 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardodevsousa21&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <div style="display: inline-block;"><br>
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
