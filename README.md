@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/carlos-eduardo-de-sousa-fernandes-80b00426b/)
 
-## Tecnologias que uso 
+## TECNOLOGIAS QUE USO DIARIAMENTE
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodevsousa21&show_icons=true&theme=tokyonight)
 
 </a>
